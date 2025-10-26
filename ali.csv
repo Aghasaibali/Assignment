@@ -1,0 +1,47 @@
+Gender,Age,Height_cm,Sport,Satisfaction,Delivery_Satisfaction
+M,36,194.2,No,Satisfied,Good
+M,23,195.7,Yes,Not satisfied,Good
+F,32,194.2,Yes,Satisfied,Slow
+M,24,172.9,No,Very satisfied,Slow
+M,42,189.6,No,Not satisfied,Slow
+M,35,186.2,Yes,Very satisfied,Slow
+M,47,170.4,Yes,Not satisfied,Slow
+M,58,172.8,No,Not satisfied,Very good
+F,41,187.4,No,Not satisfied,Good
+M,28,192.6,Yes,Satisfied,Slow
+M,41,177.1,Yes,Very satisfied,Good
+M,40,182.2,Yes,Satisfied,Slow
+M,31,184.4,Yes,Satisfied,Slow
+M,60,195.9,Yes,Very satisfied,Good
+M,35,197.1,No,Very satisfied,Slow
+M,62,174.9,Yes,Very satisfied,Good
+F,61,193.1,Yes,Not satisfied,Slow
+M,59,170.1,Yes,Satisfied,Good
+F,22,158,No,Satisfied,Slow
+F,56,184,Yes,Satisfied,Slow
+M,58,181.7,No,Satisfied,Good
+M,28,197.8,No,Satisfied,Good
+F,52,179.8,Yes,Not satisfied,Slow
+F,64,173.4,Yes,Very satisfied,Good
+F,33,162.6,No,Not satisfied,Very good
+M,28,193.6,No,Not satisfied,Slow
+M,47,178.6,No,Not satisfied,Good
+F,42,184,No,Very satisfied,Very good
+M,35,190.9,No,Very satisfied,Slow
+M,58,191.9,Yes,Satisfied,Slow
+F,62,187.5,Yes,Not satisfied,Good
+M,53,193.5,Yes,Satisfied,Good
+F,32,167,Yes,Very satisfied,Slow
+F,61,164.7,No,Very satisfied,Good
+F,38,157.9,Yes,Very satisfied,Good
+M,21,189.9,Yes,Very satisfied,Good
+F,32,186.1,Yes,Not satisfied,Slow
+M,20,184.6,Yes,Satisfied,Slow
+F,38,198.6,Yes,Very satisfied,Good
+M,43,175.7,Yes,Satisfied,Slow
+F,35,175.4,Yes,Very satisfied,Slow
+F,22,155.3,Yes,Satisfied,Slow
+M,31,176.5,Yes,Satisfied,Slow
+M,54,171.8,No,Very satisfied,Slow
+M,63,192.1,Yes,Very satisfied,Good
+M,38,171.8,Yes,Satisfied,Very good
